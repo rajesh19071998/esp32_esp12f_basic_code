@@ -1,0 +1,47 @@
+# **Memory Usage**
+
+Build Time: 2026-10-06 10:51:19
+
+Board: nodemcuv2
+
+Total Flash: 1020.0 KB
+Used Flash:  384.7 KB
+Total RAM:   80.0 KB
+Used RAM:    29.3 KB
+
+RAM percent: 36.7%
+Flash percent: 37.7%
+
+RAM:   [====      ]   36.7% (used 30048 bytes from 81920 bytes)
+Flash: [====      ]   37.7% (used 393895 bytes from 1044464 bytes)
+Partition Layout:
+  nvs: 20.0 KB
+  otadata: 8.0 KB
+  app0: 1856.0 KB
+  app1: 1856.0 KB
+  spiffs: 256.0 KB
+  coredump: 64.0 KB
+  OTA total: 3712.0 KB
+  Partition table total: 4060.0 KB
+
+Sections:
+  .init: 0 bytes
+  .vector: 0 bytes
+  .text: 230 bytes
+  .text1: 27669 bytes
+  .irom0.text: 362212 bytes
+  .fini: 0 bytes
+  .rodata: 2280 bytes
+  .data: 1504 bytes
+  .bss: 26264 bytes
+  .stack: 0 bytes
+  .noinit: 56 bytes
+  .iram0.text: 0 bytes
+  .iram0.vectors: 0 bytes
+  .flash.text: 0 bytes
+  .flash.rodata: 0 bytes
+  .flash.rodata_noload: 0 bytes
+  .flash.appdesc: 0 bytes
+  .dram0.data: 0 bytes
+  .dram0.bss: 0 bytes
+
