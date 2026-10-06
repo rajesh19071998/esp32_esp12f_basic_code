@@ -1,0 +1,47 @@
+# **Memory Usage**
+
+Build Time: 2026-10-06 10:51:07
+
+Board: esp32dev
+
+Total Flash: 1856.0 KB
+Used Flash:  937.0 KB
+Total RAM:   320.0 KB
+Used RAM:    46.3 KB
+
+RAM percent: 14.5%
+Flash percent: 50.5%
+
+RAM:   [=         ]   14.5% (used 47368 bytes from 327680 bytes)
+Flash: [=====     ]   50.5% (used 959465 bytes from 1900544 bytes)
+Partition Layout:
+  nvs: 20.0 KB
+  otadata: 8.0 KB
+  app0: 1856.0 KB
+  app1: 1856.0 KB
+  spiffs: 256.0 KB
+  coredump: 64.0 KB
+  OTA total: 3712.0 KB
+  Partition table total: 4060.0 KB
+
+Sections:
+  .init: 0 bytes
+  .vector: 0 bytes
+  .text: 0 bytes
+  .text1: 0 bytes
+  .irom0.text: 0 bytes
+  .fini: 0 bytes
+  .rodata: 0 bytes
+  .data: 0 bytes
+  .bss: 0 bytes
+  .stack: 0 bytes
+  .noinit: 0 bytes
+  .iram0.text: 83015 bytes
+  .iram0.vectors: 1027 bytes
+  .flash.text: 689507 bytes
+  .flash.rodata: 160228 bytes
+  .flash.rodata_noload: 15854 bytes
+  .flash.appdesc: 256 bytes
+  .dram0.data: 25688 bytes
+  .dram0.bss: 21680 bytes
+
